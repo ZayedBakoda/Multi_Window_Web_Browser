@@ -20,13 +20,19 @@ Ensure that you have Java Development Kit (JDK) installed on your system. You ca
    git clone https://github.com/ZayedBakoda/Multi_Window_Web_Browser.git
 
 2.**Navigate to Project Directory**
+```bash
   cd Multi_Window_Web_Browser
+```
   
 3.**Compile the Java Source Files**
+```bash
   javac *. java
+```
 
 4.**Run the Application**
+```bash
   java WebBrowser
+```
 
 ## Usage
 **Opening New Windows**
