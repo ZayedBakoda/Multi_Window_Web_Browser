@@ -16,8 +16,9 @@ Ensure that you have Java Development Kit (JDK) installed on your system. You ca
 ### Installation
 
 1. **Clone the Repository**
-   ```bash
+```bash
    git clone https://github.com/ZayedBakoda/Multi_Window_Web_Browser.git
+```
 
 2.**Navigate to Project Directory**
 ```bash
