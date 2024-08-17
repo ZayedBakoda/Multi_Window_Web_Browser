@@ -28,7 +28,7 @@ Ensure that you have Java Development Kit (JDK) installed on your system. You ca
 4.**Run the Application**
   java WebBrowser
 
-##Usage
+## Usage
 **Opening New Windows**
 Once the application is running, you can open additional browser windows using the application's menu options.
 
